@@ -1,11 +1,11 @@
 # 🔑 RFID Kontrollü BLE Bluetooth Klavye ile Oturum Açma & Kilitleme
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Donanım-Deneyap%20Kart%201A-007acc?style=for-the-badge&logo=espressif&logoColor=white" alt="Donanım" />
-  <img src="https://img.shields.io/badge/Protokol-BLE%20HID%20Klavye-3b82f6?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Bluetooth" />
-  <img src="https://img.shields.io/badge/RFID-MFRC522%2013.56MHz-059669?style=for-the-badge" alt="RFID" />
-  <img src="https://img.shields.io/badge/Güvenlik-Donanım%20Tabanlı%20Giriş-d97706?style=for-the-badge" alt="Güvenlik" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-brightgreen?style=for-the-badge" alt="Lisans" />
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Donan%C4%B1m-Deneyap%20Kart%201A-24292e?style=flat-square&logo=espressif" alt="Donanım" /></a>
+  <a href="#proje-ozeti"><img src="https://img.shields.io/badge/Protokol-BLE%20HID%20Klavye-24292e?style=flat-square&logo=bluetooth" alt="Bluetooth" /></a>
+  <a href="#pin-baglantilari"><img src="https://img.shields.io/badge/RFID-MFRC522%2013.56MHz-24292e?style=flat-square" alt="RFID" /></a>
+  <a href="#calisma-mantigi"><img src="https://img.shields.io/badge/G%C3%BCvenlik-Donan%C4%B1m%20Tabanl%C4%B1%20Giri%C5%9F-24292e?style=flat-square" alt="Güvenlik" /></a>
+  <a href="#lisans"><img src="https://img.shields.io/badge/Lisans-MIT-24292e?style=flat-square" alt="Lisans" /></a>
 </p>
 
 > **Fiziksel RFID kartları kablosuz kimlik doğrulayıcıya dönüştürün!** Deneyap Kart 1A'nın dahili Bluetooth Low Energy (BLE) donanımı kullanılarak bilgisayara **sanal bir kablosuz klavye (HID)** gibi bağlanılır. Yetkili giriş kartı okutulduğunda bilgisayarı uyandırıp şifreyi otomatik yazar; kilit kartı okutulduğunda ise `Windows + L` kısayoluyla tek dokunuşta ekranı kilitler.
